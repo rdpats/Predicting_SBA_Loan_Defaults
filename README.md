@@ -1,4 +1,4 @@
-# Loan-Default-Prediction
+# Predicting SBA Loan Defaults
 
 **Dataset:**
 You are provided with the dataset. There were several changes made to the dataset: columns dropped/added.
